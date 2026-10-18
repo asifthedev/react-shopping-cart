@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Inter";
+  --font-logo: "Bodoni Moda";
+  --container-content: 1140px;
+}
+
+body {
+  font-family: "Inter";
+  letter-spacing: 0.02em;
+}
