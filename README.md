@@ -1,10 +1,20 @@
+<div align="center">
+
 # Choice — React Shopping Cart
 
 A fast, responsive e-commerce storefront with a slide-in shopping cart, built with **React 19**, **Vite** and **Tailwind CSS v4**.
 
-**Live demo:** [react-shopping-cart-olive.vercel.app](https://react-shopping-cart-olive.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://react-shopping-cart-olive.vercel.app)
 
-**Tech stack:** React 19 · Vite 8 · Tailwind CSS 4 · Oxlint · Vercel
+**Live:** [react-shopping-cart-olive.vercel.app](https://react-shopping-cart-olive.vercel.app)
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![Oxlint](https://img.shields.io/badge/Linted_with-Oxlint-orange)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel)
+
+</div>
 
 ---
 
